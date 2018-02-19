@@ -1,0 +1,19 @@
+{
+  "name": "routermaps",
+  "version": "0.0.1",
+  "description": "working title",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrutter/routermaps.git"
+  },
+  "author": "Jake Rutter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrutter/routermaps/issues"
+  },
+  "homepage": "https://github.com/jrutter/routermaps#readme"
+}
